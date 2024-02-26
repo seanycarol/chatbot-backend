@@ -60,6 +60,3 @@ Here you can list the main routes of your API, and what are their expected reque
   "message": "O Museu do Doce de Pelotas foi inaugurado em 2004, com o objetivo de preservar e divulgar a história da tradição doceira da cidade."
 }
 ```
-    </td>
-  </tr>
-</table>
